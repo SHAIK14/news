@@ -1,7 +1,7 @@
 import React from "react";
-
+import "./Cricket.css";
 const Cricket = () => {
-  return <div>Cricket</div>;
+  return <div className="cricket">Cricket</div>;
 };
 
 export default Cricket;

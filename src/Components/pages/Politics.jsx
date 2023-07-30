@@ -1,7 +1,7 @@
 import React from "react";
-
+import "./Politics.css";
 const Politics = () => {
-  return <div>Politics</div>;
+  return <div className="politics">Politics</div>;
 };
 
 export default Politics;
