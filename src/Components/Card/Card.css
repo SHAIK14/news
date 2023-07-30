@@ -1,2 +1,11 @@
 .card {
+  display: flex;
+  border: 1px solid black;
+}
+.img {
+  width: 250px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
 }

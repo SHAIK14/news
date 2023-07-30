@@ -16,13 +16,13 @@ const Navbar = () => {
       </div>
       <div className="middle">
         <Link to="/cricket" className="link">
-          <Cricket />
+          Cricket
         </Link>
         <Link to="/finance" className="link">
-          <Finance />
+          Finance
         </Link>
         <Link to="/politics" className="link">
-          <Politics />
+          Politics
         </Link>
       </div>
       <div className="search">
